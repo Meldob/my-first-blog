@@ -25,7 +25,7 @@ SECRET_KEY = '5hp3d37o83^9%-drx!0+1w=cnf@5y73ayw9x51kasd=wjh^-12'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["meldob.pythonanywhere.com/", "127.0.0.1"]
+ALLOWED_HOSTS = ["meldob.pythonanywhere.com", "127.0.0.1"]
 
 
 # Application definition
